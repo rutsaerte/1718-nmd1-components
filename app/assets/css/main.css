@@ -1,0 +1,33 @@
+.btn{
+    border: 1px solid #c62828;
+    background:#c62828;
+    padding: 5px 16px;
+    border-radius:3px;
+    text-decoration:none;
+    color:#fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight:700; 
+}
+.btn:hover{
+    background:#ff5f52;
+    color:#fff;
+}
+
+.primary-btn{
+    background: #8bc34a;
+    color:#fff;
+    border-color: #5a9216;
+}
+.primary-btn:hover{
+    background: #bef67a;
+    color:#fff;
+}
+.secondary-btn{
+    background: #01579b;
+    color:#fff;
+    border-color: #01579b;
+}
+.secondary-btn:hover{
+    background: #4f83cc;
+    color:#fff;    
+}
